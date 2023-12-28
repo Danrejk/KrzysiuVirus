@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="krzysiu__10_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (10).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__11_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (11).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__12_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (12).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__13_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (13).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__14_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (14).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__15_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (15).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__16_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (16).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__17_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (17).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__18_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (18).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__19_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (19).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\krzysiu (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__20_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (20).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__21_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (21).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__22_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (22).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__23_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (23).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__24_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (24).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__25_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (25).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__26_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (26).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__27_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (27).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__28_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (28).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__29_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (29).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__30_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (30).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__31_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (31).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__32_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (32).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__33_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (33).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__34_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (34).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__35_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (35).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__36_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (36).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__37_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (37).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__38_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (38).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__39_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (39).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__40_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (40).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__41_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (41).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__42_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (42).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__43_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (43).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__44_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (44).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__45_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (45).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__46_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (46).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__47_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (47).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__4_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__5_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__6_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__7_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__8_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="krzysiu__9_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\krzysiu (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="music__10_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__10_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__11_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__11_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__12_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__12_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__13_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__13_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__14_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__14_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__15_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__15_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__16_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__16_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__17_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__17_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__18_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__18_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__19_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__19_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__1_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__20_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__20_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__21_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__21_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__22_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__22_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__23_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__23_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__24_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__24_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__2_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__3_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__4_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__4_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__5_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__5_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__6_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__6_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__7_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__7_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__8_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__8_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="music__9_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Music\music__9_.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
